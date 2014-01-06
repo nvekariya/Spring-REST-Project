@@ -13,6 +13,6 @@ Library Management System that allows below primary opertations.
 Implementation Detail
 
 - Used Spring MVC framework and Rest API
-- Database implemented using both Spring JDBC and Hibernate
+- Database implementation using both Spring JDBC and Hibernate
 - Supports Internationalization
 - Built client using JSP, JavaScript and jQuery
